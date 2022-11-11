@@ -1,2 +1,2 @@
 # Landing
- no adaptiv
+ no adaptive
